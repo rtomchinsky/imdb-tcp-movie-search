@@ -28,6 +28,5 @@ whatever `PORT` value you wish.
 ## Testing the server
 
 The source includes a (very) simple client (com.tomchinsky.imdb.Client).
-The class defines a client that will connect on port 8000 and search for
-"Lord of the Rings". You may change this client as necessary
-to test other queries.
+The class defines a client that will connect on port 8000 and allow you
+to submit queries to the server
